@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune Concilium tentum in Camera Guildhall civitas London, vicesimo primo die Junii, anno Domini, 1665 ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48988</idno><idno type="EEBO-CITATION">18368344</idno>
+  <idno type="VID">107416</idno>
+  <idno type="EEBO-PROQUEST">2240905252</idno>
+  
+            <idno type="STC">Wing L2852Y</idno>
+            <idno type="STC">ESTC R39343</idno>
+            <idno type="OCLC">18368344</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune Concilium tentum in Camera Guildhall civitas London, vicesimo primo die Junii, anno Domini, 1665 ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Godbid ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Whereas the right of ordering and disposing of carrs, carts, carrwins, carters and cartmen, and of all other person or persons whatsoever working any carr or carts within the city of London ..."--P. 1.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Carriages and carts --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb n="1" facs="tcp:107416:1"/>
+            <head>Commune Concilium tentum in Camera <hi>Guild<g ref="char:EOLhyphen"/>hall</hi> Civitatis <hi>London,</hi> vicesimo primo die <hi>Junii,</hi> Anno Domini, 1665. Annoque Regni Domini nostri CAROLI Secundi, Dei Gratia, <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiberniae,</hi> Regis, Fidei defensoris, &amp;c. decimo septimo, coram <hi>Jo<g ref="char:EOLhyphen"/>hanne Lawrence</hi> Milite, Majore Civitatis <hi>London, Thoma Adams, Richardo Brown,</hi> &amp; <hi>Thoma Aleyn,</hi> Mil' &amp; Baronet', Aldermannis, <hi>Johanne Frederick, Willielmo Bolton, Wil<g ref="char:EOLhyphen"/>lielmo Turner,</hi> &amp; <hi>Richardo Rives,</hi> Militibus, Aldermannis, <hi>Willielmo Hooker</hi> Aldermanno, &amp; <hi>Georgio Waterman,</hi> &amp; <hi>Carolo Doe,</hi> Milit' &amp; Aldermannis, nec non Vicecomitibus ejusdem Civitatis, ac majore parte Communiariorum de Communi Concilio ejusdem Civitatis tunc &amp; ibidem Assemblat'.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the right of ordering and disposing of Carrs, Carts Carrooms, Carters and Carmen, and of all other person or persons whatsoever working any Carr or Carts within the City of <hi>London</hi> and Liberties thereof, is and (from the time whereof the memory of Man is not to the contrary) hath been in the Mayor and Commu<g ref="char:EOLhyphen"/>nalty and Citizens of this City; and in pur<g ref="char:EOLhyphen"/>suance thereof, the Government of the said Carrs, Carts, Car<g ref="char:EOLhyphen"/>rooms, Carters and Carmen, hath from time to time, by several Acts of <hi>Common Council,</hi> been disposed and committed, sometimes to the President and Governours of <hi>Christ's Hospital,</hi> and at other times to the Master, Wardens and Fellowship of <hi>Woodmongers London,</hi> and in the year <hi>1658</hi> to the late President and Governours for the Poor of the said City, and last of all, was again committed
+<pb facs="tcp:107416:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:107416:2"/>
+               <pb n="2" facs="tcp:107416:3"/>to the Master, Wardens and Assistants of the said Fellowship of <hi>Woodmongers,</hi> by an Act of <hi>Common Council</hi> made the <hi>10</hi> day of <hi>May 1661,</hi> in the Mayoralty of Sir <hi>Richard Brown</hi> Knight and Baronet, and divers Rules, Directions, Provisions and Penalties thereby given, made and set down, touching the Licencing and Re<g ref="char:EOLhyphen"/>gulation of Carmen, and several other matters, and the Master Wardens and Assistants of the said Company of <hi>Woodmongers</hi> by the same Act impowered for Licencing and allowing of the Car<g ref="char:EOLhyphen"/>men, and to several other purposes, as in and by the said Act more fully may appear: And forasmuch as complaint hath been made by divers Citizens and others, of sundry Abuses committed in the Government of the Carmen, and of many Inconveniences and Grievances brought upon the Citizens and Inhabitants of this City and Liberties, and parts adjacent, in raising the Price and using Deceits in the weight and Measure of <hi>Couls,</hi> by means and pretence of the Priviledge and power granted in and by the said Act of <hi>Common Council;</hi> as in and by a Report of certain <hi>Com<g ref="char:EOLhyphen"/>mittees</hi> (appointed to examin the said Grievances and Abuses) read and allowed in this <hi>Court,</hi> more particularly and fully may ap<g ref="char:EOLhyphen"/>pear.</p>
+            <p>Be it therefore Enacted, Granted and Agreed, by the Right Honourable the Lord Mayor, the Right Worshipful the Aldermen his Brethren, and the Commons in this <hi>Common Council</hi> assembled, and by the Authority of the same, That the before-mentioned Act made in the Mayoralty of Sir <hi>Richard Brown,</hi> and every Clause, Article and Thing therein contained, shall from henceforth be utterly repealed, and made void to all intents and purposes; and that the President and Governours of <hi>Christ's Hospital London,</hi> shall from time to time hereafter have the Rule, Oversight and Government of the said Carrs, Carts, Carters and Carnien, and of all other person or persons whatsoever working any Carrs or Carts within the City of <hi>London</hi> and Liberties thereof, during the pleasure of this Court, and no longer, and according to the Rules, Directions and Provisions in this present Act mentioned and com<g ref="char:EOLhyphen"/>prised, and such other Orders, Rules, Directions and Limitations, as by this Court, or the Lord Mayor and Court of Aldermen, shall hereafter upon farther consideration, be made and provided in this behalf.</p>
+            <p>And it is Enacted, That no more than four hundred and twenty Carrs shall by the Mayor, Commonalty and Citizens of this City, or any other person or persons claiming by, from, or under them, be allowed or permitted to work within this City and Liberties thereof; and that seventeen shillings and four pence <hi>per Annum,</hi> and no more, shall be received or paid for a Carroom, and twenty shillings, and no more or greater Fine, upon any admittance or alienation of a Carroom; and that if any person or persons shall
+<pb n="3" facs="tcp:107416:3"/>presume to work any Cart or Carrs, by himself or Servants, not being duly allowed as aforesaid, such person or persons, for every time so offending, shall forfeit and pay the sum of forty shillings, to be recovered, received and obtained, as is hereafter mentioned.</p>
+            <p>Also it is Enacted, That there shall not hereafter be any Carr, Cart or Carrs, permitted or allowed to any Wharf, Wharfingers or Woodmongers, or kept or worked by any Whatfinger or Wood<g ref="char:EOLhyphen"/>monger, after the first day of <hi>August</hi> next, but by Licence of the said President and Governours of <hi>Christ's Hospital,</hi> and the same to be part of the said number of four hundred and twenty Carrs; and that all the Street-Carrs, or residue of the said four hundred and twenty Carrs, to be Licensed as aforesaid, shall or may be used or allowed to work within this City and Liberties thereof, for the Carriage of all Wood, Coals and other Fewel, within the same City and Liberties, at such Rates and in all other respects as other Goods and Commodities have used and ought to be car<g ref="char:EOLhyphen"/>ried, and not otherwise. Provided nevertheless, that it shall be lawful for every person and persons to send his and their own or other Cart or Carts out of the Countrey, to bring Coals from Wharfs, and also to bring his and their own Coals home to his and their house and houses in <hi>London,</hi> with his and their own Cart or Carts, not being Traders in Fewel by retailing the same. And if any Wharfinger, Woodmonger or other, shall pre<g ref="char:EOLhyphen"/>sume to keep and work any Carr, Cart or Carrs, contrary to the true meaning hereof, such person and persons, for every time so offending, shall forfeit and pay for the first offence the sum of forty shillings, to be recovered and obtained as is hereafter mentioned; and for the second, and every other offence afterwards, the said Carr or Carrs to be seized, and carried to the new Storeyard on the Postern, and there kept and detained, according to the Custom of <hi>London.</hi>
+            </p>
+            <p>And be it hereby farther Enacted, That such as have any Car<g ref="char:EOLhyphen"/>room or Carrooms duly allowed, shall not directly or indirectly lett them out for hire at any time hereafter, without the approbation and allowance of the said President and Governours of <hi>Christ's Hospital</hi> for the time being first had, obtained, and attested in wri<g ref="char:EOLhyphen"/>ting under the said Presidents hand, to the end that none may be admitted to work any Carr, but such as shall be found of civil carriage and able and meet for that Imployment, upon pain that every person offending therein shall forfeit the sum of ten shillings a day for every day he shall lett to hire the said Carr, to be recovered as is hereafter mentioned.</p>
+            <p>And that the Prices of Carriages may be moderate as well for the People as for the Carmen, It is Enacted, That forthwith this present year, and hereafter always from year to year, in the month of <hi>September,</hi> the Rates and Prices of Carriages within
+<pb n="4" facs="tcp:107416:4"/>this City and Liberties shall be set and appointed by the Court of Aldermen, and such of the Commons and others as they shall think fit to call before them for their Information; and the said Prices to be printed, and set upon Posts in publick places: And if any Carman shall demand and take more than according to such Rates and Prices so to be set down, such person or persons so offen<g ref="char:EOLhyphen"/>ding shall forfeit and pay for every such offence the sum of ten shillings, to be had and recovered as is hereafter mentioned.</p>
+            <p>And it is hereby farther Enacted, That it shall and may be lawful for any one of the Marshals of this City, and their men respectively, (who are hereby authorized and appointed to assist the said President and Governours of <hi>Christ's Hospital,</hi> and whom they the said President and Governours shall appoint from time to time) to take and seize all the supernumerary Carrs, not allowed, which shall be found working in this City and the Liberties there<g ref="char:EOLhyphen"/>of, and, according to the ancient Custom of this City in that behalf used, to impound them in the new Store-yard at the Postern belonging to this City, there to remain till the respective Owners of them shall conform themselves to the Government of the said President and Governours.</p>
+            <p>It is also hereby farther Enacted, That if any person or per<g ref="char:EOLhyphen"/>sons authorized to work any Carr or Carts, by himself or Servant, shall neglect or refuse duly to pay the said yearly Rent of seventeen shillings and four pence apiece to the said President and Gover<g ref="char:EOLhyphen"/>nours, for all and every the laid Carr and Carts, as is before mentioned, the Carroom, that is, the Licence of such person or persons to work such Carr or Carrs, shall forthwith be suspended, and such person and persons be disabled to work any longer by virtue of the same Licence, until he or they shall conform to the payment of the said duty of seventeen shillings and four pence re<g ref="char:EOLhyphen"/>spectively: And if any person or persons for the cause before men<g ref="char:EOLhyphen"/>tioned being so disabled before conformity, shall presume after such disallowance to use and work any Carr or Carrs, either in their own person or persons, or by his or their Servant or Servants, Agent or Agents, then such person or persons shall respectively for<g ref="char:EOLhyphen"/>feit and lose the sum of forty shillings for every time they shall so work, as in working without Licence or Allowance.</p>
+            <p>And for the prevention of such Deceit hereafter as divers <hi>Wood<g ref="char:EOLhyphen"/>mongers</hi> have practised in the Sale and Measure of their Coals, It is Enacted, That all Sea-coals hereafter to be sold or uttered by retail, by any person or persons whatsoever, shall be filled and brought home to the Buyers in the Sea-coal-metors Sacks, or such other Sacks as contain the full measure of the Sea-coal-metors Sacks, and are and shall be marked by the Keeper of the <hi>Guild-hall</hi> for the time being, according to an Order of the Court of Aldermen made the twenty fifth day of <hi>October,</hi> in the time of
+<pb n="5" facs="tcp:107416:4"/>the Mayoralty of Sir <hi>Thomas Cambell</hi> Knight deceased, and car<g ref="char:EOLhyphen"/>ried by some Street-Carr or Carrs of persons duly Licenced and allowed as aforesaid, and bearing upon the same Carrs the mark of the red Cross for a note of their Allowance, as hath anciently been accustomed.</p>
+            <p>And that all person and persons vending or uttering Seacoals by retail, and their Carmen, Servants or Agents, shall hereafter from time to time, and at all times when they carry or send abroad any Coals within the City of <hi>London</hi> or Liberties thereof, carry along in their Carr or Carrs together with their Seacoals a good and lawful Bushel, sealed according to the Bushel in the <hi>Gui<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Hall,</hi> allowed for measuring of Seacoals, which agreeth with the Fatt anciently used for measuring of Seacoals, which Bushel shall be and contain in breadth from out to out the ring, not exc<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eding half an inch, nineteen inches and a half, and in depth within the Bushel seven inches and a half.</p>
+            <p>And if any person or persons shall bring home in his or their Carr or Carr, to any Buyer, any Coals in any other Sack or Sacks, and without such Bushel as are before mentioned and appointed, such persons so offending shall forfeit and pay ten shil<g ref="char:EOLhyphen"/>lin<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s for the first and second offence respectively, for the third and every other offence the Carr or Carrs of the Offender to be seized and carried to the new Store-yard on the Postern, as is afore<g ref="char:EOLhyphen"/>said.</p>
+            <p>And be it Enacted by the Authority aforesaid, That the said President and Governours of <hi>Christ's Hospital</hi> shall for time to come observe, perform and execute such Acts, Orders and Rules, as have been or shall hereafter from time to time be farther made, published or enjoyned by <hi>Common Council,</hi> or by the Lord Mayor and Court of Aldermen of this City for the time being, for, touch<g ref="char:EOLhyphen"/>ing and concerning the Government and Regulation of Carrs, Carts, Carters and Carmen, touching or concerning the Price, Measure, or Assize of Coal-Sacks, Coals or other Fewel, or any matter or thing to the same or any of them in any wise belonging or appertaining.</p>
+            <p>And for a constant Store and Provision of Seacoals to be had and made hereafter for supply of this City, and especially for the benefit and relief of the Poor in times of Dearth and Scarcity, which hath happened in this and many other years heretofore, by reason of Wars and Troubles at Sea, or by the subtil combi<g ref="char:EOLhyphen"/>nation and practice of the Retailers at home for their private gain and profit, to the common Abuse and detriment of the Citizens, and others His Majesties Subjects,</p>
+            <p>Be it Enacted by the Authority aforesaid, That besides the general Stock imployed by this City for Provision of Coals for the benefit of the Poor within the said City and Liberties, there
+<pb n="6" facs="tcp:107416:5"/>shall be provided yearly hereafter at the best hand, betwixt <hi>Lady<g ref="char:EOLhyphen"/>day</hi> and <hi>Michaelmas,</hi> by the several Companies of this City, the several Chaldrons of Seacoals hereafter mentioned:</p>
+            <p>That is to say,
+<list>
+                  <item>
+                     <hi>Mercers, <hi>four hundred eighty eight.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Grocers, <hi>six hundred seventy five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Drapers, <hi>five hundred sixty two.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Fishmongers, <hi>four hundred sixty five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Goldsmiths, <hi>five hundred twenty five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Skinners, <hi>three hundred and fif<g ref="char:EOLhyphen"/>teen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Merchant-tailours, <hi>seven hundred and fifty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Haberdashers, <hi>five hundred seventy eight.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Salters, <hi>three hundred and sixty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ironmongers, <hi>two hundred fifty five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Vintners, <hi>three hundred seventy five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Clothworkers, <hi>four hundred and twelve.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Dyers, <hi>one hundred and five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Brewers, <hi>one hundred and four.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Leathersellers, <hi>two hundred and ten.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Pewterers, <hi>fifty two.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Cutlers, <hi>seventy five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>White-bakers, <hi>forty five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Wax-chandlers, <hi>nineteen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Tallow-chandlers, <hi>ninety seven.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Armourers, <hi>nineteen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Girdlers, <hi>one hundred and five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Butchers, <hi>twenty two.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Sadlers, <hi>ninety.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Carpenters, <hi>thirty eight.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Cordweiners, <hi>sixty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Barbersurgeons, <hi>sixty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Painterstainers, <hi>twelve.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Curriers, <hi>eleven.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Masons, <hi>twenty two.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Plumbers, <hi>nineteen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Innholders, <hi>forty five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Founders, <hi>seven.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Poulters, <hi>twelve.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Cooks, <hi>thirty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Coopers, <hi>fifty two.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Tylers <hi>and</hi> Bricklayers, <hi>nineteen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Bowyers, <hi>three.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Fletchers, <hi>three.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Black-smiths, <hi>fifteen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Apothecaries, <hi>forty five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Joyners, <hi>twenty two.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Weavers, <hi>twenty seven.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Woolmen, <hi>three.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Woodmongers, <hi>sixty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Scriveners, <hi>sixty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Fruiterers, <hi>seven.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Plaisterers, <hi>eight.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Brown-bakers, <hi>twelve.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Stationers, <hi>seventy five.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Imbroyderers, <hi>thirty.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Ʋpholders, <hi>nine.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Musicians, <hi>six.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Turners, <hi>thirteen.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Basket-makers, <hi>six.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Glasiers, <hi>six.</hi>
+                     </hi>
+                  </item>
+               </list>
+            </p>
+            <p>And that the said quantity of Seacoals shall be stored or laid up in convenient places by every the said Companies respectively, and brought out, sold and uttered, at such other hard and deer seasons of the year, in such manner and at such Price as the Lord Mayor and Court of Aldermen of this City for the time being shall judge most requisite and convenient, and by their Precept in writing shall direct and require, for the ends and purposes before mentioned,
+<pb n="7" facs="tcp:107416:5"/>so as such Companies as aforesaid be not by such Prices ordered to sell the same Coals to Loss.</p>
+            <p>And whereas divers <hi>Woodmongers</hi> and others using to sell and utter Coals by retail within this City and Liberties, in design to raise and inhance the Prices thereof for their own private Gain and Commodity, have commonly heretofore gone or sent down the River of <hi>Thames,</hi> or otherwise travailed and imployed their Agents to meet the Ships and Vessels coming from <hi>Newcastle</hi> and other parts toward this City loaden with Coals, and at distant places from the said City, or by Precontract within the same City and Liberties, have bought up, forestalled and ingrossed great quantities of Coals, which should have been brought to the said City by the Owners and Sellers thereof, to be there sold and uttered at reasonable Prices, and the same have conveyed and brought to the said City, to sell again at high and excessive Prices, against the Custom and Priviledges of this City, and to the pub<g ref="char:EOLhyphen"/>lick Detriment, Oppression of the Poor, and great charge of all others inhabiting and dwelling within the said City and Liberties thereof:</p>
+            <p>For Reformation hereof, Be it Enacted, Ordained and Esta<g ref="char:EOLhyphen"/>blished by the Authority aforesaid, That no person or persons whatsoever inhabiting or dwelling, or that hereafter shall inhabit and dwell within the said City or the Liberties thereof, shall, from and after the Feast of the Nativity of Saint <hi>John Baptist</hi> now next ensuing, either by themselves or any for them or to their use, provide, buy, bargain or contract for any Seacoals, Scotch-coals, Pit-coals, or other Coals coming towards this City to be sold, other than such as shall be provided and bought to be spent within their own private houses, nor shall sell or utter the same by retail or in gross within this City or Liberties to any person or persons, but that the Owners and Sellers thereof, at their own costs and charges, shall and may bring the same Coals to the City them<g ref="char:EOLhyphen"/>selves, here by them to be sold; upon pain that all and every person and persons whatsoever that shall offend contrary to the true intent and meaning hereof, shall forfeit and lose five shillings for every Chaldron of Seacoals, and the like sum for every Tun of Scotch or Pit-coals, that shall be bought, bargained or contracted for contrary to the intent and true meaning of this Act, to be reco<g ref="char:EOLhyphen"/>vered as is hereafter mentioned.</p>
+            <p>And it is Enacted, That the Yeomen of the Wood-wharfs of this City for the time being, shall from time to time diligently over<g ref="char:EOLhyphen"/>see, that all persons coming and repairing to this City with any manner of Coals before mentioned to be sold, do and shall observe and keep the Orders, Rules and Directions before going, and shall use like diligence for the discovery and punishment of all Offen<g ref="char:EOLhyphen"/>ders in or about any particular thereof, according to the intent and meaning of this Act,</p>
+            <pb n="8" facs="tcp:107416:6"/>
+            <p> And lastly it is Enacted, That all Peins, Penalties and For<g ref="char:EOLhyphen"/>feitures, in and by this Act before limited and appointed, shall and may be recovered by Action of Debt, Bill or Information, in the name of the <hi>Chamberlein</hi> of this City for the time being, in His Majesties Court holden before the Mayor and Aldermen of the said City in the Chamber of the <hi>Guild-hall</hi> of the City of <hi>London,</hi> wherein no Essoign or Wager of Law shall be admitted or allowed for the Defendant: And after Recovery thereof, one moiety (after all Charges deducted) shall be to the Intormer, and the other moiety to the Poor of <hi>Christ's Hospital</hi> in <hi>London,</hi> to be imployed for and toward their relief. In all which Suits to be brought by this Act, the <hi>Chamberlein</hi> shall recover his ordinary Costs and Charges, to be expended in and for recovery of all such Forfeitures against the Offender or Offenders.</p>
+            <closer>
+               <signed>Weld.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Godbid,</hi> for the Use of <hi>CHRISTS-HOSPITAL.</hi>
+            </p>
+            <pb facs="tcp:107416:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
